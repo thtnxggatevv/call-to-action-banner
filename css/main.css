@@ -53,7 +53,7 @@ body {
 }
 
 .card-content {
-  font-family: "Roboto Condensed", sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.5rem;
   font-style: normal;
   margin: .5rem 0 1rem;
@@ -66,9 +66,9 @@ body {
 }
 
 .btn-big {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   font-size: 1.5rem;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .btn-primary {
