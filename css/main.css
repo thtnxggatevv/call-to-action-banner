@@ -1,10 +1,10 @@
 html {
   box-sizing: border-box;
-  font-family: Roboto Condensed;
+  font-family: Roboto Condensed, sans-serif;
   line-height: 2;
 }
 
-*,*::before, *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
@@ -27,16 +27,16 @@ body {
 }
 
 .banner {
-justify-content: space-between;
-align-items: flex-start;
-padding: 0 1.5rem;
-display: flex;
-position: absolute;
-top: 50%;
-transform: translate(-50%, -52%);
-width: 100%;
-max-width: 45em;
-left: 50%;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0 1.5rem;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -52%);
+  width: 100%;
+  max-width: 45em;
+  left: 50%;
 }
 
 .icon {
