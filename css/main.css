@@ -1,0 +1,40 @@
+html {
+  box-sizing: border-box;
+  font-family: Roboto, sans-seirf;
+  line-height: 2;
+}
+
+*,*::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+.img flex {
+  display: block;
+  width: 100%;
+}
+
+.card {
+  postion: relative;
+}
+
+.card-background {
+  max-height: 500px;
+  overflow: hidden;
+}
+
+.banner {
+justify-content: space-between;
+align-items: flex-start;
+padding: 0 1.5rem;
+display: flex;
+position: absolute;
+top: 50%;
+transform: translate(-50%, -52%);
+width: 100%;
+max-width: 45em;
+left: 50%;
+}
