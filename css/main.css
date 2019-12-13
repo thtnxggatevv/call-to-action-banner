@@ -10,7 +10,6 @@ html {
 
 body {
   margin: 0;
-  margin-right: inherit;
 }
 
 .img-flex {
@@ -62,7 +61,6 @@ body {
 }
 
 .content {
-  width: 60%;
   max-width: 45em;
 }
 
