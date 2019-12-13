@@ -45,7 +45,7 @@ body {
 }
 
 .icon {
-  width: 34%;
+  width: 3%;
 }
 
 .card-title {
@@ -59,7 +59,9 @@ body {
 .card-content {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 1.5rem;
+  font-style: normal;
   margin: .5rem 0 1rem;
+  line-height: 1.5;
 }
 
 .content {
