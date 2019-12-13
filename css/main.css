@@ -40,10 +40,6 @@ body {
   left: 50%;
 }
 
-.banner-content {
-  max-width: 45em;
-}
-
 .icon {
   width: 34%;
 }
@@ -61,11 +57,13 @@ body {
   font-size: 1.5rem;
   font-style: normal;
   margin: .5rem 0 1rem;
-  line-height: 1.2;
+  line-height: 1.5;
+
 }
 
 .content {
   width: 60%;
+  max-width: 45em;
 }
 
 .btn-big {
