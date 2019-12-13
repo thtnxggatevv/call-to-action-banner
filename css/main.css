@@ -36,12 +36,12 @@ body {
   transform: translate(-50%, -52%);
   width: 100%;
   max-width: 45em;
-  max-height:500px;
+  max-height: 500px;
   left: 50%;
 }
 
 .banner-content {
-max-width: 45em;
+  max-width: 45em;
 }
 
 .icon {
