@@ -18,7 +18,7 @@ body {
 }
 
 .card {
-  position: relative;
+  position: absolute;
 }
 
 .card-background {
@@ -31,7 +31,7 @@ body {
   align-items: flex-start;
   padding: 0 1.5rem;
   display: flex;
-  position: absolute;
+  position: relative;
   top: 50%;
   transform: translate(-50%, -52%);
   width: 100%;
